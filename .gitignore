@@ -1,0 +1,6 @@
+index-986bac86.js
+*.json
+/venv
+/__pycache__
+/examples
+.env
